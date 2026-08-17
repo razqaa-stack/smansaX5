@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "kelas": "X.5",
+    "jumlah_siswa": 36,
+    "updated": "2026-08-17T08:16:43.202Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549116,
+      "nama": "ADEK LARASAKI PUTRI",
+      "nohp": "089523046280",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549117,
+      "nama": "ADELIA MEIDINA PUTRI",
+      "nohp": "081371063305",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549118,
+      "nama": "AFRINA SHABIRAH IRWAN",
+      "nohp": "085356021890",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549119,
+      "nama": "AHMAD JULIAN",
+      "nohp": "089525823274",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549120,
+      "nama": "AIRIN NURLATIFAH NASUTION",
+      "nohp": "081289444300",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549121,
+      "nama": "AISYAH FADHILLAH",
+      "nohp": "082172924700",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549122,
+      "nama": "BERLIAN AIDIL LUFTHI",
+      "nohp": "085374774248",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549123,
+      "nama": "DHIMAS ADY NUGRAHA",
+      "nohp": "-",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549124,
+      "nama": "DHIONNEV PUTRATAMA",
+      "nohp": "085364103585",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549125,
+      "nama": "DIANDRA NAJWA ATHAYA",
+      "nohp": "081363175364",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549126,
+      "nama": "FADLI DEVANDI",
+      "nohp": "082238929187",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549127,
+      "nama": "KAMILAH AZZAH MAHIRAH",
+      "nohp": "081365383688",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549128,
+      "nama": "KEISHIA PUTRI ARINI",
+      "nohp": "083139081598",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549129,
+      "nama": "KHALIQ FURQAN WIJAYA",
+      "nohp": "085363802234",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549130,
+      "nama": "KHANIYAH ZAHRA",
+      "nohp": "6282324134663",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549131,
+      "nama": "KHANSA RAMADHANI ANDEVI",
+      "nohp": "-",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549132,
+      "nama": "LUTHFI RAHMAN ALFARIZI",
+      "nohp": "083183970828",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549133,
+      "nama": "M. AHDAN ALQHAIRY",
+      "nohp": "082384623052",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549134,
+      "nama": "M.GHALY ZUYA AL FAJRI",
+      "nohp": "081364511154",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549135,
+      "nama": "MUHAMMAD FATURRAHMAN",
+      "nohp": "085376248631",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549136,
+      "nama": "MUHAMMAD FIZLAN",
+      "nohp": "0895320300979",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549137,
+      "nama": "MUHAMMAD LUTFHI",
+      "nohp": "082246355884",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549138,
+      "nama": "MUHAMMAD SYAWAL FITRAH AKBAR",
+      "nohp": "082171096544",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549139,
+      "nama": "NAFISA MARDHATILA",
+      "nohp": "082171734940",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549140,
+      "nama": "NAURATIN ENGKI",
+      "nohp": "085659541254",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549141,
+      "nama": "RAJA MARVI SITANGGANG",
+      "nohp": "081363282906",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549142,
+      "nama": "ROHADATUL MUFIIDAH",
+      "nohp": "081374804188",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549143,
+      "nama": "SADDAM UMAR PRABOWO",
+      "nohp": "088271288623",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549144,
+      "nama": "SALSABILA PUTRI ZHAFIRA",
+      "nohp": "083151710559",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549145,
+      "nama": "SALSABILAH",
+      "nohp": "085327500100",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549146,
+      "nama": "SHAIFUL RAHMAN",
+      "nohp": "-",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549147,
+      "nama": "SITI NOER SYAFFITHRI",
+      "nohp": "085364478824",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549148,
+      "nama": "TSAUBAN AL-TURAN",
+      "nohp": "085214098895",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549149,
+      "nama": "VALLEN RAISMAN",
+      "nohp": "081371963969",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549150,
+      "nama": "ZAIDAN JABAR SIDDIQ",
+      "nohp": "085319319898",
+      "kelas": "X.5"
+    },
+    {
+      "id": 1786954549151,
+      "nama": "ZIVANIA QUANEISHA NOVRATILOVA",
+      "nohp": "085274557004",
+      "kelas": "X.5"
+    }
+  ]
+}
